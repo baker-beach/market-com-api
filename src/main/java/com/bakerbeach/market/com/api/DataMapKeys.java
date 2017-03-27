@@ -6,6 +6,7 @@ public class DataMapKeys {
 	public static final String SHOP_CODE = "shop_code";
 	public static final String PASSWORD = "password";
 	public static final String ORDER = "order";
+	public static final String RECIPIENT = "recipient";
 	
 
 }
