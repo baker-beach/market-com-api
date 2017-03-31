@@ -10,7 +10,7 @@
 	<artifactId>market-com-api</artifactId>
 	<name>market-com-api</name>
 	<packaging>jar</packaging>
-	<version>1.0.1</version>
+	<version>1.1.0</version>
 	<properties>
 	</properties>
 	<dependencies>
